@@ -1,0 +1,3 @@
+n = int(input("w "))
+arr = map(int, input().split())
+print(list(arr))
